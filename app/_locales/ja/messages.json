@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "FF15 インターネットカー",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "奪われたクリスタルを求めて、王子と共にインターネットライディング",
+    "description": "The description of the application"
+  }
+}
